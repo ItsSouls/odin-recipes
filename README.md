@@ -34,3 +34,16 @@ This website showcases various recipes with a focus on simple, traditional dishe
 - Image integration
 - Hyperlink navigation
 
+🎓 Learning Objectives
+This project demonstrates:
+
+Basic HTML structure
+Working with links and images
+Creating organized content
+File structure organization
+Basic web development principles
+
+✍️ Author
+David Castaños
+
+
